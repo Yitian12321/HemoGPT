@@ -1,0 +1,8 @@
+git+https://github.com/huggingface/transformers
+accelerate
+evaluate
+datasets
+torch==2.2.1
+numpy
+tqdm
+pandas
